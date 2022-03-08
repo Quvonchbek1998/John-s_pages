@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#works{
+    width: 100%;
+    height: auto;
+    margin-top: 100px;
+}
+.featur-works hr{
+margin: 40px auto;
+}
+.works-details {
+    width: 100px;
+    margin: 0 auto;
+}
+.works-details a{
+    text-decoration: none;
+    color: black;
+}

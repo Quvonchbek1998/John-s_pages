@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hover-color{
+    color: #FF6464;
+}
+#blogs{
+    margin: 160px auto;
+}
+#blogs h1{
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 60px;
+    margin-bottom: 55px;
+}
+.blogs-tipe h3{
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 44px;
+    margin-bottom: 16px;    
+}
+.blogs-tipe p{
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 29px;
+    margin-bottom: 15px;
+}
+.blogs-tipe span{
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 29px;
+    color: #8695A4;
+}
+.blogs-tipe hr{
+    border: 1px solid #E0E0E0;
+    margin: 30px auto;
+}
